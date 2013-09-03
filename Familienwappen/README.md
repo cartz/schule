@@ -17,7 +17,7 @@ FAQ
 
 ### Wie kann ich eine Datei auf meinem PC speichern?
 
-Am einfachsten könnt ihr eine Datei auf eurem PC speichern, wenn ihr in der Hauptansicht des Verzeichnisses mit dem Mauszeiger über den Link zu der gewünschten Datei fahrt, mit der rechten Maustaste das Kontextmenü aufruft und dann mit "Ziel speichern unter..." die Datei auf eurem Rechner speichert. Denkt bitte daran, dass ihr euch den Speicherort merkt. ![Screenshot](https://github.com/cartz/schule/blob/master/images/save_target_as.jpg)
+Am einfachsten könnt ihr eine Datei auf eurem PC speichern, wenn ihr in der Hauptansicht des Verzeichnisses mit dem Mauszeiger über den Link zu der gewünschten Datei fahrt, mit der rechten Maustaste das Kontextmenü aufruft und dann mit "Ziel speichern unter..." die Datei auf eurem Rechner speichert. Denkt bitte daran, dass ihr euch den Speicherort merkt. ![Screenshot](https://raw.github.com/cartz/schule/master/images/save_target_as.jpg)
 
 ### Wie kann ich eine .eps-Datei öffnen?
 
