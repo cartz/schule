@@ -10,3 +10,8 @@ Aufgabe: Familienwappen
 	* mindestens ein weiteres Zierelement
 
 Expertenaufgabe: Finde eine passende Beschriftung zu deinem Wappen. Achte hierbei darauf, dass die Schrift (Typographie) zum Wappen passt!
+
+====
+
+### FAQ:
+* ![Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)

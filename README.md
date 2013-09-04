@@ -5,9 +5,11 @@ In diesem Repository sind passende Zusatzmaterialien für meinen Unterricht im W
 
 
 ### Aufgaben:
+* ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
 
 
-### FAQ
+### FAQ:
+* ![Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)
 
 
-### Wichtige Links
+### Wichtige Links:
