@@ -5,6 +5,7 @@ In diesem Repository sind passende Zusatzmaterialien für meinen Unterricht im W
 
 
 ### Aufgaben:
+* ![Werbeplakat (Schule)](https://github.com/cartz/schule/tree/master/Werbeplakat%20(Schule))
 * ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
 
 
