@@ -1,4 +1,4 @@
-Aufgabe: Familienwappen
+Aufgabe: Werbeplakat Schule
 ====
 
 1. Lies den folgenden ![Artikel](http://blog.martes.de/2011/07/08/plakatgestaltung/) zum Thema Plakatgestaltung!
