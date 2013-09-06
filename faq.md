@@ -19,3 +19,7 @@ Um euch gut und fair zu benoten, benötige ich eure eigenen Werke immer in den B
 	Gimp		--> .xcf
 	
 Neben diesen beiden Formaten empfiehlt es sich auch eine Version als .jpg oder .png zu speichern.
+
+### Wie speicher ich meine Bilder unter Gimp als .png, .jpg,...?
+
+Unter Gimp lassen sich die Bilder nur in einem anderen Format als .xcf abspeichern, wenn ihr die Bilder exportiert. Exportieren könnt ihr über den Menüreiter "Datei".
