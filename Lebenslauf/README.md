@@ -12,6 +12,10 @@ Expertenaufgabe: Zentriere deine Tabelle, nicht aber den Inhalt der Tabellenzell
 Hilfe:
 ====
 
+Damit deine Datei übersichtlich bleibt, solltest du versuchen deinen Quellcode in unterschiedlichen "Ebenen" zu verfassen und immer wieder Kommentare einfügen. Kommentare kannst du mit "<!-- Kommentar -->" einfügen.
+Um den Text auf unterschiedliche Ebenen zu bringen nutzt du am besten tabs, da Leerzeichen zwar auch funktionieren, jedoch wesentlich umständlicher in ihrer Handhabung sind und du durch die Verwendung von tabs sehr viel Zeit sparen kannst!
+
+
 Die folgenden Befehle sind für deine Tabelle von besonders großer Bedeutung:
 
 
