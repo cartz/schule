@@ -23,3 +23,7 @@ Neben diesen beiden Formaten empfiehlt es sich auch eine Version als .jpg oder .
 ### Wie speicher ich meine Bilder unter Gimp als .png, .jpg,...?
 
 Unter Gimp lassen sich die Bilder nur in einem anderen Format als .xcf abspeichern, wenn ihr die Bilder exportiert. Exportieren könnt ihr über den Menüreiter "Datei".
+
+### Wie gebe ich einer Ebene in Gimp einen bestimmten Namen?
+
+Du wählst die Ebene an, klickst mit der rechten Maustaste auf den bisherigen Ebenennamen und es öffnet sich ein Kontextmenü. In diesem Kontextmenü wählst du den Punkt "Ebeneneigenschaften" aus und benennst dann dort die Ebene um!
