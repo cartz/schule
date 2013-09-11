@@ -9,7 +9,8 @@ In diesem Repository sind passende Zusatzmaterialien für meinen Unterricht im W
 * ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
 
 
-### wichtige Links für den WP:
+wichtige Links für den WP:
+====
 * ![Startseite](https://github.com/cartz/schule)
 * ![FAQ](https://github.com/cartz/schule/blob/master/faq.md)
 * ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
