@@ -27,3 +27,9 @@ Unter Gimp lassen sich die Bilder nur in einem anderen Format als .xcf abspeiche
 ### Wie gebe ich einer Ebene in Gimp einen bestimmten Namen?
 
 Du wählst die Ebene an, klickst mit der rechten Maustaste auf den bisherigen Ebenennamen und es öffnet sich ein Kontextmenü. In diesem Kontextmenü wählst du den Punkt "Ebeneneigenschaften" aus und benennst dann dort die Ebene um!
+
+
+### wichtige Links für den WP:
+* ![Startseite](https://github.com/cartz/schule)
+* ![FAQ](https://github.com/cartz/schule/blob/master/faq.md)
+* ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
