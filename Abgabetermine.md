@@ -5,7 +5,7 @@ Hier findet ihr die jeweils gültigen Abgabetermine für eure Aufgaben. Wichtig 
 
 
 ### Terminliste:
-* Werbeplakat für die Schule 12.09.2013
+* Werbeplakat für die Schule 19.09.2013
 
 
 wichtige Links für den WP:
