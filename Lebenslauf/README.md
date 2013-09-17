@@ -4,7 +4,7 @@ Aufgabe: Lebenslauf
 1. Sammel die benötigten Daten für deinen Lebenslauf!
 2. Erstelle eine .html-Datei nach dem hier vorliegenden Muster! Benutze dazu Notepad++!
 3. Informiere dich unter der folgenden URL über den Aufbau einer Tabelle: ![Tabellen in HTML](http://de.selfhtml.org/html/tabellen/aufbau.htm)
-4. Programmiere nun eine eigene Tabelle, die du mit deinen Daten befüllst!
+4. Programmiere nun eine eigene Tabelle, die du mit deinen Daten befüllst! Benutze beide Arten der Tabellenzelle (th und td)!
 
 Expertenaufgabe: Zentriere deine Tabelle, nicht aber den Inhalt der Tabellenzellen! Verändere die Einstellungen für den Tabellenrand und formatiere die Schrift innerhalb der Tabellenzellen!
 
