@@ -21,7 +21,7 @@ Die folgenden Befehle sind für dein Schachbrett von besonders großer Bedeutung
 ```
 Diese Angaben gehören in die Defintion der Tabellenspalte bzw. der einzelnen Tabellenzellen:
 
-background-color: #hexwert --> Hintergrundfarbe eines Elements
+bgcolor=#hexwert --> Hintergrundfarbe eines Elements
 
 width=100 bedeutet, dass etwas eine Weite/Breite von 100 Pixeln zugewiesen bekommt
 
@@ -34,6 +34,7 @@ height=100 bedeutet, dass etwas eine Höhe von 100 Pixeln zugewiesen bekommt
 
 ### wichtige Links:
 * ![selfhtml](http://de.selfhtml.org/)
+* ![Farben als Hexadezimalwert](http://html-color-codes.info/webfarben_hexcodes/)
 
 
 ====
