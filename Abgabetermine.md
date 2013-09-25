@@ -5,7 +5,8 @@ Hier findet ihr die jeweils gültigen Abgabetermine für eure Aufgaben. Wichtig 
 
 
 ### Terminliste:
-* Werbeplakat für die Schule 19.09.2013
+* Werbeplakat für die Schule: Da ich letzte Woche krank gewesen bin, erhalten alle eine zusätzliche Frist bis zum 2.10.2013. Bis zu diesem Zeitpunkt sind die Ergebnisse bei mir per e-mail als .png abzugeben! Die .xcf-Datei erhalte ich dann nach den Ferien!
+* Familienwappen: Nach dem Ablauf dieser Doppelstunde am 26.09.2013 sind die Arbeitsergebnisse abzugeben!
 
 
 wichtige Links für den WP:
