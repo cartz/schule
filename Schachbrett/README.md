@@ -33,7 +33,7 @@ height=100 bedeutet, dass etwas eine Höhe von 100 Pixeln zugewiesen bekommt
 ====
 
 ### wichtige Links:
-* ![selfhtml](https://de.selfhtml.org/)
+* ![selfhtml](http://de.selfhtml.org/)
 * ![Farben als Hexadezimalwert](https://html-color-codes.info/webfarben_hexcodes/)
 
 
