@@ -14,3 +14,4 @@ wichtige Links für den WP:
 * ![Startseite](https://github.com/cartz/schule)
 * ![FAQ](https://github.com/cartz/schule/blob/master/faq.md)
 * ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
+
