@@ -21,11 +21,11 @@ Die folgenden Befehle sind für dein Schachbrett von besonders großer Bedeutung
 ```
 Diese Angaben gehören in die Defintion der Tabellenspalte bzw. der einzelnen Tabellenzellen:
 
-bgcolor=#hexwert --> Hintergrundfarbe eines Elements
+bgcolor=#hexwert --> mit diesem Attribut bestimmst du die Hintergrundfarbe eines Elements
 
-width=100 bedeutet, dass etwas eine Weite/Breite von 100 Pixeln zugewiesen bekommt
+width="100" --> ist ein Attribut, dass etwas eine Weite/Breite von 100 Pixeln zuweist
 
-height=100 bedeutet, dass etwas eine Höhe von 100 Pixeln zugewiesen bekommt
+height="100" --> ist ein Attribut, dass etwas eine Höhe von 100 Pixeln zuweist
 
 ```
 
