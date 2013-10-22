@@ -8,6 +8,8 @@ Auch lohnt es sich immer wieder einen kurzen Blick auf den Youtube-Kanal zu dies
 ### Aufgaben:
 * ![Werbeplakat - Schule](https://github.com/cartz/schule/tree/master/Werbeplakat%20-%20Schule)
 * ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
+* ![HTML 1 - Lebenslauf](https://github.com/cartz/schule/tree/master/Lebenslauf)
+* ![HTML 2 - Schachbrett](https://github.com/cartz/schule/tree/master/Schachbrett)
 
 
 wichtige Links für den WP:
