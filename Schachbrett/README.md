@@ -3,7 +3,7 @@ Aufgabe: Schachbrett
 
 1. Sammel die benötigten Daten für deinen Lebenslauf!
 2. Erstelle eine .html-Datei nach dem hier vorliegenden Muster! Benutze dazu Notepad++!
-3. Informiere dich unter der folgenden URL darüber, wie man Tabellenzellen bestimmte Breiten und Höhen geben kann: ![Tabellen in HTML](http://de.selfhtml.org/html/tabellen/aufbau.htm#vordefinieren)
+3. Informiere dich unter der folgenden URL darüber, wie man Tabellenzellen bestimmte Breiten und Höhen geben kann: ![Tabellen in HTML](https://bit.ly/H0dIgP)
 4. Erstelle nun ein Schachbrett mit 5x5 Feldern
 
 
