@@ -18,3 +18,4 @@ wichtige Links für den WP:
 * ![FAQ](https://github.com/cartz/schule/blob/master/faq.md)
 * ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
 * ![unser Youtube-Kanal](https://www.youtube.com/channel/UCwMsys62VFPxDRJZkyGI14A)
+* ![unser HTML Cheat Sheet](https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)

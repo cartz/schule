@@ -28,10 +28,13 @@ Unter Gimp lassen sich die Bilder nur in einem anderen Format als .xcf abspeiche
 
 Du wählst die Ebene an, klickst mit der rechten Maustaste auf den bisherigen Ebenennamen und es öffnet sich ein Kontextmenü. In diesem Kontextmenü wählst du den Punkt "Ebeneneigenschaften" aus und benennst dann dort die Ebene um!
 
+### Ich kann mir bei HTML die Sachen nicht merken!
+
+Dann schreib sie dir auf! Eine kleine Hilfe kann dir an dieser Stelle auch ein kleines Cheat Sheet (ein Spickzettel) geben, das ich dir vorbereitet habe. Du findest es hier: ![Link zum HTML Cheat Sheet] (https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)]
 
 wichtige Links für den WP:
 ====
 * ![Startseite](https://github.com/cartz/schule)
 * ![FAQ](https://github.com/cartz/schule/blob/master/faq.md)
 * ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
-* ![HTML Cheat Sheet] (http://woorkup.com/wp-content/uploads/2009/12/HTML5-Visual-Cheat-Sheet1.pdf)
+* ![HTML Cheat Sheet] (https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
