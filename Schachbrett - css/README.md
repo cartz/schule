@@ -1,7 +1,7 @@
-Aufgabe: Schachbrett
+Aufgabe: Schachbrett - css
 ====
 
-Dein Ziel ist es in dieser Aufgabe dein fertiges Schachbrett durch den Einsatz von css zu verschönern. css kann dir bei größeren Arbeiten eine ganze Menge Zeit ersparen, weshalb es sehr wichtig ist, dass du nun anfängst, dir entsprechende Dinge anzueignen. Zur Erklärung, wie der Einbau einer css-Datei funktioniert kannst du dir entweder ein kurzes Video auf youtube anschauen oder bei selfhtml nach dem Begriff "css" suchen. Den Link zu selfhtml findest du unter wichtige Links weiter unten!
+Dein Ziel ist es in dieser Aufgabe dein fertiges Schachbrett durch den Einsatz von css zu verschönern. css kann dir bei größeren Arbeiten eine ganze Menge Zeit ersparen, weshalb es sehr wichtig ist, dass du nun anfängst, dir entsprechende Dinge anzueignen. Zur Erklärung, wie der Einbau einer css-Datei funktioniert kannst du dir entweder ein kurzes Video auf youtube anschauen (![Link zum Video](http://youtu.be/yyUnE7YZOs4)) oder bei selfhtml nach dem Begriff "css" suchen. Den Link zu selfhtml findest du unter wichtige Links weiter unten!
 
 Dein fertiges Schachbrett sollte am Ende in etwa wie folgt aussehen:
 
