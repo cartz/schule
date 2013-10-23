@@ -10,7 +10,7 @@ Auch lohnt es sich immer wieder einen kurzen Blick auf den Youtube-Kanal zu dies
 * ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
 * ![HTML 1 - Lebenslauf](https://github.com/cartz/schule/tree/master/Lebenslauf)
 * ![HTML 2 - Schachbrett](https://github.com/cartz/schule/tree/master/Schachbrett)
-
+* ![HTML 3 - Schachbrett - css](https://github.com/cartz/schule/tree/master/Schachbrett%20-%20css)
 
 wichtige Links für den WP:
 ====
