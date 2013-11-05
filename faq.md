@@ -30,7 +30,7 @@ Du wählst die Ebene an, klickst mit der rechten Maustaste auf den bisherigen Eb
 
 ### Ich kann mir bei HTML die Sachen nicht merken!
 
-Dann schreib sie dir auf! Eine kleine Hilfe kann dir an dieser Stelle auch ein kleines Cheat Sheet (ein Spickzettel) geben, das ich dir vorbereitet habe. Du findest es hier: ![Link zum HTML Cheat Sheet] (https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)]
+Dann schreib sie dir auf! Eine kleine Hilfe kann dir an dieser Stelle auch ein kleines Cheat Sheet (ein Spickzettel) geben, das ich dir vorbereitet habe. Du findest es hier: ![Link zum HTML Cheat Sheet] (https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
 
 wichtige Links für den WP:
 ====
