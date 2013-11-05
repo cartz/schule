@@ -32,6 +32,10 @@ Du wählst die Ebene an, klickst mit der rechten Maustaste auf den bisherigen Eb
 
 Dann schreib sie dir auf! Eine kleine Hilfe kann dir an dieser Stelle auch ein kleines Cheat Sheet (ein Spickzettel) geben, das ich dir vorbereitet habe. Du findest es hier: ![Link zum HTML Cheat Sheet] (https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
 
+### Wie sichere ich meine Arbeiten?
+
+Der wahrscheinlich einfachste Weg, den du gehen kannst, besteht darin, dass du dir deine Arbeiten immer auf einen eigenen USB-Stick speicherst!
+
 wichtige Links für den WP:
 ====
 * ![Startseite](https://github.com/cartz/schule)
