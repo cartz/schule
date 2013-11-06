@@ -1,7 +1,7 @@
 Aufgabe: Hyperlinks und andere Texte
 ====
 
-1. Erstelle eine html-Datei mitsamt einer css-Datei!
+1. Erstelle eine html-Datei!
 2. Füge Textblöcke und Bilder ein!
 3. Kombiniere Textblöcke, Bilder und Links!
 
