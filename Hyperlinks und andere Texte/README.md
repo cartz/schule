@@ -8,7 +8,7 @@ Aufgabe: Hyperlinks und andere Texte
 
 ```
 <p> und </p> markieren einen zusammenhängenden Textabsatz
-<h1> und <h1> markieren die wichtigste Überschrift auf einer Seite
+<h1> und </h1> markieren die wichtigste Überschrift auf einer Seite, <h2> und </h2> eine weniger wichtige Überschrift etc...
 <a href="url">Link text</a> erzeugt einen Link zu einer anderen Datei oder einem #Anker
 <a id="Anker">Ankername</a>  erzeugt einen Anker, der von einem Link angewählt werden kann
 ```
