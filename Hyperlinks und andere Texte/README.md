@@ -14,7 +14,7 @@ Aufgabe: Hyperlinks und andere Texte
 ```
 
 ### Expertenaufgabe:
-Formatiere deine Bilder durch den Einsatz von CSS! Informationen zu CSS kannst du unter anderem auch auf selfhtml finden.
+Formatiere deine Bilder durch den Einsatz von CSS! Informationen zu CSS kannst du unter anderem auch auf selfhtml oder hier finden: ![https://learnwebcode.com/basic-css-selectors/](https://learnwebcode.com/basic-css-selectors/)
 
 
 ```
