@@ -18,7 +18,8 @@ Formatiere deine Bilder durch den Einsatz von CSS! Informationen zu CSS kannst d
 
 
 ```
-<link rel="stylesheet" href="style.css" type="text/css"> verlinkt eine css-Datei, die das Aussehen einer Seite steuern soll und im Hauptordner deiner Internetseite liegt!
+<link rel="stylesheet" href="style.css" type="text/css"> verlinkt eine css-Datei, die das Aussehen einer Seite steuert!
+Sie liegt übrigens im Hauptordner deiner Internetseite liegt!
 ```
 
 
