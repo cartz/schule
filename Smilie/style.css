@@ -1,0 +1,5 @@
+.yellow {
+	background-color: yellow;
+}
+
+/* Mit einem "." vor dem Namen werden unsere class-Angaben in der css-Datei markiert. Um eine Klasse zu benutzen, müsst ihr dem Anfangstag das Attribut class="Klassenname" hinzufügen. Ihr könnt Klassennamen beliebig häufig stapeln! class="Klassenname1 Klassenname2" */
