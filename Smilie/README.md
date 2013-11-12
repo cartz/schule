@@ -3,8 +3,10 @@ Aufgabe: Smilie
 
 1. Erstelle eine html- und eine css-Datei!
 2. Erstelle mit divs einen Smilie
-    
-    
+
+P.S.: Schau dir die Dateien an, die ich dieser Aufgabe beigefügt habe (smilie.html und style.css), wenn du dir unsicher bist!   
+   
+       
 ```
 <div> und </div> sind die Tags für eine div, die wir zukünftig als Hauptmittel zur Gestaltung benutzen werden!   
 
