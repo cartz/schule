@@ -7,6 +7,8 @@ Auch lohnt es sich immer wieder einen kurzen Blick auf den Youtube-Kanal zu dies
 
 Solltet ihr trotzdem immer wieder ins Grübeln kommen, welche Befehle ihr zur Umsetzung einer Aufgabe benötigt, dann habe ich euch einen kleinen Spickzettel vorbereitet (ein Cheat Sheet), den ihr hier finden könnt: ![unser HTML Cheat Sheet](https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
 
+Eine weitere Erleichterung kann übrigens auch das CSS-Wiki sein, das ihr hier erreichen könnt: ![css-wiki.com](https://bit.ly/IcHn6E)
+
 ### Aufgaben:
 * ![Werbeplakat - Schule](https://github.com/cartz/schule/tree/master/Werbeplakat%20-%20Schule)
 * ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
@@ -23,3 +25,4 @@ wichtige Links für den WP:
 * ![Abgabetermine](https://github.com/cartz/schule/blob/master/Abgabetermine.md)
 * ![unser Youtube-Kanal](https://www.youtube.com/channel/UCwMsys62VFPxDRJZkyGI14A)
 * ![unser HTML Cheat Sheet](https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
+* ![CSS-Wiki](https://bit.ly/IcHn6E)
