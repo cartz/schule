@@ -16,7 +16,7 @@ Eine weitere Erleichterung kann übrigens auch das CSS-Wiki sein, das ihr hier e
 * ![HTML 2 - Schachbrett](https://github.com/cartz/schule/tree/master/Schachbrett)
 * ![HTML 3 - Kochrezept](https://github.com/cartz/schule/tree/master/Kochrezept)
 * ![HTML 4 - Hyperlinks und andere Texte](https://github.com/cartz/schule/tree/master/Hyperlinks%20und%20andere%20Texte)
-* ![Bastelstunde mit Cubeecraft](https://github.com/cartz/schule/tree/master/Hyperlinks%20und%20andere%20Texte)
+* ![Bastelstunde mit Cubeecraft](https://github.com/cartz/schule/tree/master/cubeecraft)
 
 
 
