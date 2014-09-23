@@ -10,13 +10,8 @@ Solltet ihr trotzdem immer wieder ins Grübeln kommen, welche Befehle ihr zur Um
 Eine weitere Erleichterung kann übrigens auch das CSS-Wiki sein, das ihr hier erreichen könnt: ![css-wiki.com](https://bit.ly/IcHn6E)
 
 ### Aufgaben:
-* ![Werbeplakat - Schule](https://github.com/cartz/schule/tree/master/Werbeplakat%20-%20Schule)
-* ![Familienwappen](https://github.com/cartz/schule/tree/master/Familienwappen)
-* ![HTML 1 - Lebenslauf](https://github.com/cartz/schule/tree/master/Lebenslauf)
-* ![HTML 2 - Schachbrett](https://github.com/cartz/schule/tree/master/Schachbrett)
-* ![HTML 3 - Kochrezept](https://github.com/cartz/schule/tree/master/Kochrezept)
-* ![HTML 4 - Hyperlinks und andere Texte](https://github.com/cartz/schule/tree/master/Hyperlinks%20und%20andere%20Texte)
-* ![Bastelstunde mit Cubeecraft](https://github.com/cartz/schule/tree/master/cubeecraft)
+* ![HTML - Steckbrief]()
+
 
 
 

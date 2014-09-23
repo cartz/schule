@@ -1,12 +1,12 @@
-Aufgabe: Lebenslauf
+Aufgabe: HTML - Steckbrief
 ====
 
-1. Sammel die benötigten Daten für deinen Lebenslauf!
+1. Sammel die benötigten Daten für deinen Steckbrief!
 2. Erstelle eine .html-Datei nach dem hier vorliegenden Muster! Benutze dazu Notepad++!
 3. Informiere dich unter der folgenden URL über den Aufbau einer Tabelle: ![Tabellen in HTML](https://bit.ly/15VYCiO)
 4. Programmiere nun eine eigene Tabelle, die du mit deinen Daten befüllst! Benutze beide Arten der Tabellenzelle (th und td)!
 
-Expertenaufgabe: Zentriere deine Tabelle, nicht aber den Inhalt der Tabellenzellen!
+Expertenaufgabe: Zentriere deine Tabelle auf der Seite, nicht aber den Inhalt der Tabellenzellen!
 
 p.s.: Als Grundgerüst kannst du basic.html benutzen. Du findest diese Datei in diesem Ordner!
 
@@ -21,6 +21,9 @@ Die folgenden Befehle sind für deine Tabelle von besonders großer Bedeutung:
 
 
 ```
+<h1> öffnet eine Überschrift
+</h1> schließt eine Überschrift
+
 <table> öffnet deine Tabelle
 </table> schließt deine Tabelle
 
