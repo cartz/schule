@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/cartz/schule/master/HTML-Steckbrief/steckbrief.png)
+
 Aufgabe: HTML - Steckbrief
 ====
 
