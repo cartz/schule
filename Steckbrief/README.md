@@ -6,7 +6,7 @@ Aufgabe: HTML - Steckbrief
 3. Informiere dich unter der folgenden URL über den Aufbau einer Tabelle: ![Tabellen in HTML](https://bit.ly/15VYCiO)
 4. Programmiere nun eine eigene Tabelle, die du mit deinen Daten befüllst! Benutze beide Arten der Tabellenzelle (th und td)!
 
-Expertenaufgabe: Zentriere deine Tabelle auf der Seite, nicht aber den Inhalt der Tabellenzellen!
+Expertenaufgabe: Versuche eine Bilddatei per html auf deiner Internetseite erscheinen zu lassen und verändere die Tabelle (Abstand der einzelnen Tabellenzellen zueinander, Dicke des Rahmens, etc.). Nutze hierfür Informationen, die du über selfhtml erhalten kannst!
 
 p.s.: Als Grundgerüst kannst du basic.html benutzen. Du findest diese Datei in diesem Ordner!
 
