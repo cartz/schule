@@ -10,8 +10,8 @@ Solltet ihr trotzdem immer wieder ins Grübeln kommen, welche Befehle ihr zur Um
 Eine weitere Erleichterung kann übrigens auch das CSS-Wiki sein, das ihr hier erreichen könnt: ![css-wiki.com](https://bit.ly/IcHn6E)
 
 ### Aufgaben:
-* ![HTML - Steckbrief](https://github.com/cartz/schule/tree/master/Steckbrief)
-
+* ![HTML - Steckbrief](https://github.com/cartz/schule/tree/master/HTML-Steckbrief)
+* ![HTML - Schachbrett](https://github.com/cartz/schule/tree/master/HTML-Schachbrett)
 
 
 
