@@ -5,7 +5,7 @@ Aufgabe: HTML - Steckbrief
 
 1. Sammel die benötigten Daten für deinen Steckbrief!
 2. Erstelle eine .html-Datei nach dem hier vorliegenden Muster! Benutze dazu Notepad++!
-3. Informiere dich unter der folgenden URL über den Aufbau einer Tabelle: ![Tabellen in HTML](http://bit.ly/15VYCiO)
+3. Informiere dich unter der folgenden URL über den Aufbau einer Tabelle: ![Tabellen in HTML unter http://bit.ly/15VYCiO](http://bit.ly/15VYCiO)
 4. Programmiere nun eine eigene Tabelle, die du mit deinen Daten befüllst! Benutze beide Arten der Tabellenzelle (th und td)!
 
 Expertenaufgabe: Versuche eine Bilddatei per html auf deiner Internetseite erscheinen zu lassen und verändere die Tabelle (Abstand der einzelnen Tabellenzellen zueinander, Dicke des Rahmens, etc.). Nutze hierfür Informationen, die du über selfhtml erhalten kannst!
@@ -43,7 +43,7 @@ Die folgenden Befehle sind für deine Tabelle von besonders großer Bedeutung:
 ====
 
 ### wichtige Links:
-* ![selfhtml](http://bit.ly/1gjBmCs)
+* ![selfhtml unter http://bit.ly/1gjBmCs](http://bit.ly/1gjBmCs)
 
 
 ====

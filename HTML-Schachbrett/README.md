@@ -2,7 +2,7 @@ Aufgabe: Schachbrett
 ====
 
 1. Erstelle eine .html-Datei nach dem hier vorliegenden Muster! Benutze dazu Notepad++!
-2. Informiere dich unter der folgenden URL darüber, wie man Tabellenzellen bestimmte Breiten und Höhen geben kann: ![Tabellen in HTML](https://bit.ly/H0dIgP)
+2. Informiere dich unter der folgenden URL darüber, wie man Tabellenzellen bestimmte Breiten und Höhen geben kann: ![Tabellen in HTML bei selfhtml unter https://bit.ly/H0dIgP](https://bit.ly/H0dIgP)
 3. Erstelle nun ein Schachbrett mit 5x5 Feldern!
 
 
@@ -36,8 +36,8 @@ Beispiel:
 ====
 
 ### wichtige Links:
-* ![selfhtml](https://bit.ly/1gjBmCs)
-* ![Farben als Hexadezimalwert](https://bit.ly/15VYjEu)
+* ![selfhtml unter https://bit.ly/1gjBmCs](http://bit.ly/1gjBmCs)
+* ![Farben als Hexadezimalwert unter https://bit.ly/15VYjEu](http://bit.ly/15VYjEu)
 
 
 ====
