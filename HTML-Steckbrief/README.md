@@ -43,7 +43,7 @@ Die folgenden Befehle sind für deine Tabelle von besonders großer Bedeutung:
 ====
 
 ### wichtige Links:
-* selfhtml unter http://bit.ly/1gjBmCs
+* http://de.selfhtml.org/
 
 
 ====

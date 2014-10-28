@@ -26,7 +26,7 @@ Sie liegt übrigens im Hauptordner deiner Internetseite liegt!
 ====
 
 ### wichtige Links:
-* ![selfhtml](https://bit.ly/1gjBmCs)
+* http://de.selfhtml.org/
 
 
 ====

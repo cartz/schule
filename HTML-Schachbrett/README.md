@@ -36,8 +36,8 @@ Beispiel:
 ====
 
 ### wichtige Links:
-* selfhtml unter https://bit.ly/1gjBmCs
-* Farben als Hexadezimalwert unter https://bit.ly/15VYjEu
+* http://de.selfhtml.org/
+* Farben als Hexadezimalwert unter http://html-color-codes.info/webfarben_hexcodes/
 
 
 ====
