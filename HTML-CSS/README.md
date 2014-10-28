@@ -4,7 +4,7 @@ Aufgabe: CSS
 1. Erstelle eine html- und eine css-Datei!
 2. Erstelle eine Internetseite zu einem Thema deiner Wahl. Es gibt keine Begrenzungen. Du darfst das Internet zur Hilfe nehmen! Wichtige Links kannst du weiter unten finden.
 
-P.S.: Schau dir die Dateien an, die ich dieser Aufgabe beigefügt habe (css_uebung.html und style.css), wenn du dir unsicher bist! Stelle Fragen oder schau dir unsere Übung als Film bei youtube an. Oder Experimentiere mit den Dateien bei codepen ( http://codepen.io/cartz/pen/ugeEw )
+P.S.: Schau dir die Dateien an, die ich dieser Aufgabe beigefügt habe (css_uebung.html und style.css), wenn du dir unsicher bist! Stelle Fragen oder schau dir unsere Übung als Film bei youtube ( https://www.youtube.com/watch?v=7CmBIQ_r9UU ) an. Oder Experimentiere mit den Dateien bei codepen ( http://codepen.io/cartz/pen/ugeEw )
    
        
 ###Einzelnen HTML-Tags einen Namen geben
