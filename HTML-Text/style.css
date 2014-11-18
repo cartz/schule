@@ -1,0 +1,36 @@
+/* 
+Guten Morgen,
+
+heute lernt ihr ein paar kleine und lustige CSS-Befehle kennen. Mit dem Befehl "font-family" kann man die Schriftart von einem bestimmten Element (siehe h1) oder einer bestimmten id verändern (siehe #Timo). Natürlich funktioniert dies auch mit euren class-Angaben.
+Auch könnt ihr sehen, dass die "font-family"-Angabe immer mehr als eine Sache hinter dem Doppelpunkt stehen hat. Das soll helfen, wenn ein Computer zum Beispiel nicht die Schriftart "Times New Roman" installiert hat, dann soll mit "Times" eine Ersatzschriftart angesteuert werden. Ist auch diese nicht vorhanden, dann wird eine Schriftart mit Serifen gewählt.
+
+Die anderen Angaben könnt ihr gerne benutzen, um damit ein wenig zu spielen. Besondere Erklärungen benötigen sie eigentlich nicht.
+
+Denkt bitte daran, dass ihr nur noch zwei Wochen im November übrig habt, um an eurer Internetseite zu arbeiten.
+
+*/
+
+h1 {
+  font-family: Century Gothic, sans-serif;
+  color: blue;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+#Timo {
+  font-family: ‘Times New Roman’, Times, serif;
+}
+
+.klein {
+  font-size: 8px;
+}
+
+.unterstrichen {
+  text-decoration: underline;
+}
+
+.fett {
+  font-weight: bold;
+}
