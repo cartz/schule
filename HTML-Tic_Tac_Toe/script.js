@@ -60,13 +60,11 @@ var playerTurn = 1;
 function nextTurn(playerNo) {
 	if (playerNo === 1) {
 		playerTurn = 2;
-		$('.message').html("Spieler 2 ist am Zug!").removeClass("align-left")
-		.addClass("align-right");
+		$('.message').html("Spieler 2 ist am Zug!");
 	}
 	else if (playerNo === 2) {
 		playerTurn = 1;
-		$('.message').html("Spieler 1 ist am Zug!").removeClass("align-right")
-		.addClass("align-left");
+		$('.message').html("Spieler 1 ist am Zug!");
 	}
 }
 
@@ -83,7 +81,7 @@ function checkWin() {
 			leftDiagWin.toString() == "O,O,O" ||
 			rightDiagWin.toString() == "O,O,O")
 	{     
-		$('.message').html("Spieler 1 hat gewonnen!").removeClass("align-right align-left");
+		$('.message').html("Spieler 1 hat gewonnen!");
 		gameEnd = "yes";
 		$('.resetButton').removeClass("hide");
 	}
@@ -97,7 +95,7 @@ function checkWin() {
 			leftDiagWin.toString() == "X,X,X" ||
 			rightDiagWin.toString() == "X,X,X") 
 	{  
-		$('.message').html("Spieler 2 gewinnt!").removeClass("align-right align-left");
+		$('.message').html("Spieler 2 gewinnt!");
 		gameEnd = "yes";
 		$('.resetButton').removeClass("hide");
 	}
@@ -110,7 +108,7 @@ function checkWin() {
 // Diese Funktion wird bei einem Unentschieden ausgelöst.
 function checkCatsGame() {
 	if (turnNo == 10 && gameEnd == "no") {
-		$('.message').html("Das Spiel endet mit einem Unentschieden").removeClass("align-right align-left");
+		$('.message').html("Das Spiel endet mit einem Unentschieden");
 		gameEnd = "yes";
 		$('.resetButton').removeClass("hide");
 	}
@@ -157,9 +155,8 @@ function sqPlayed(squareNo) {
 
 $('.resetButton').click(function() {
 	$('.resetButton').addClass("hide");
-	$('.play-square').html("");
-	$('.message').html("Spieler 1 fängt an").removeClass("align-right")
-	.addClass("align-left");
+	$('.square').html("");
+	$('.message').html("Spieler 1 fängt an");
 	
 	gameEnd = "no";
 	playerTurn = 1;

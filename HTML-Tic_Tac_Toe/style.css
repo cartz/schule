@@ -1,33 +1,15 @@
-body {
-	font-family: Arial, Helvetica, sans-serif; 
-	color: #000000;
-}
-
-.gameTitle {
-	font-size: 60px;
+h1 {
 	text-align: center;
-	margin: 30px auto 15px auto;
 }
 
-.message {
-	position:relative;
-	border: 1px dotted transparent;
-	height: 60px;
-	width:400px;
-	font-size: 22px;
-	text-align: center;
-	margin: 30px auto 5px auto;
-}
-
-#game-board {
-	background-color: #95a5a6;
+#spielfeld {
 	position:relative;
 	height: 400px;
 	width:400px;
 	margin: 0 auto 0 auto;
 }
 
-.play-square {
+.square {
 	position: absolute;
 	border: 1px dotted transparent;
 	height: 128px;
@@ -127,16 +109,13 @@ body {
 	margin: 0 auto 15px auto;
 	padding: 15px 0 0 0;
 	color: #000000;
+	cursor: pointer;
+}
+
+h2 {
+	text-align: center;
 }
 
 .hide {
 	display: none;
-}
-
-.align-right {
-	text-align:right;
-}
-
-.align-left {
-	text-align:left;
 }

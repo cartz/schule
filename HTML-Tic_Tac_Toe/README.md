@@ -1,15 +1,13 @@
-Aufgabe: Tic Tak Toe!
+Aufgaben: Tic Tac Toe!
 ====
 
-1. Speicher das Spiel auf deinem Rechner. Du findest es unter den Daten, die hier in der Aufgabe sind.
-2. Löse nun die folgenden Aufgaben:
+1. Bastel nach der folgenden Anleitung ein eigenes "Tic Tac Toe"
+2. Zusatzaufgaben:
 	* Gib dem Spielfeld und dem "Neues Spiel"-Button eine andere Farbe!
 	* Gib dem Spielfeld und dem "Neues Spiel"-Button abgerundete Ecken!
 	* Lass den Coursor ein anderes Aussehen annehmen, wenn er über dem "Neues Spiel"-Button ist!
-3. Du darfst mit deinem Spiel spielen.
+	* Verändere die Benachrichtigungen des Spiels.
 
-
-Zusatzaufgabe: Verändere die Benachrichtigungen des Spiels.
 
 
 Hilfe:
