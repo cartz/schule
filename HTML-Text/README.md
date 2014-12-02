@@ -30,17 +30,17 @@ Auch könnt ihr sehen, dass die "font-family"-Angabe immer mehr als eine Sache h
 Mit dem Befehl "text-decoration: underline" könnt ihr einen Text unterstreichen lassen.
 
 ```
-.unterstrichen {
-  text-decoration: underline;
-}
+	.unterstrichen {
+		text-decoration: underline;
+	}
 ```
 
 Die Eigenschaft "font-weight: bold" lässt einen Text fett werden.
 
 ```
-.fett {
-  font-weight: bold;
-}
+	.fett {
+		font-weight: bold;
+	}
 ```
 
     
