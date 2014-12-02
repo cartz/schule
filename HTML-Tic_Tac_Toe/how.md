@@ -374,7 +374,11 @@ function sqPlayed(squareNo) {
 		//mach nichts
 	}
 }
+```
 
+Nun haben wir bereits bei der Gestaltung unserer HTML-Datei einen Button eingefügt, der ein neues Spiel starten soll, wenn man mit dem alten Spiel fertig ist. Eben diesen Button sprechen wir nun an. Die folgenden Zeilen lassen sämtliche Daten über das alte und bereits abgeschlossene Spiel löschen und setzen auch die gesetzen Spielsteine zurück, damit man wieder von vorne anfangen kann. Dieser Teil gehört an das Ende eurer script.js-Datei.
+
+```
 $('.resetButton').click(function() {
 	$('.resetButton').addClass("hide");
 	$('.square').html("");
