@@ -16,7 +16,7 @@ Hilfe:
 ====
 
 * Die meisten Befehle, die du benötigst, findest du bereits an anderen Stellen deiner CSS-Datei!
-* Du kannst ohne
+* Wenn du etwas ausprobieren willst, dann kannst du unser Spiel auch auf codepen finden: http://codepen.io/cartz/pen/MYaQOo
 
 ====
 
