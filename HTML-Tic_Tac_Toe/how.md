@@ -1,4 +1,4 @@
-![Screenshot](https://raw.github.com/cartz/schule/master/images/save_target_as.jpg)
+![Screenshot](https://raw.githubusercontent.com/cartz/schule/master/HTML-Tic_Tac_Toe/images/1.jpg)
 
 Aufgabe: Tic Tac Toe!
 ====
@@ -7,7 +7,7 @@ Ein wahrer Klassiker unter den Spielen ist "Tic Tak Toe". Zum Glück ist es auch
 
 Im ersten Schritt erstellen wir drei verschiedene Dateien. Eine Datei mit dem Namen index.html, eine Datei mit dem Namen script.js und eine Datei mit dem Namen style.css. Diese drei Dateien sollten in dem gleichen Ordner liegen.
 
-![Screenshot](https://raw.github.com/cartz/schule/master/images/save_target_as.jpg)
+![Screenshot](https://raw.githubusercontent.com/cartz/schule/master/HTML-Tic_Tac_Toe/images/2.png)
 
 Anschließend erstellen wir in unserer index.html Datei das Grundgerüst einer html-Seite, wie wir es in den vorherigen Stunden bereits geübt haben.
 
@@ -171,7 +171,7 @@ Wenn ihr unter eurer Überschift die oben angezeigten Zeilen geschrieben habt, d
 
 Wenn ihr euch euer Spiel anschaut, indem ihr eure index.html-Datei mit einem Browser öffnet, dann sollte euer Spiel nun wie folgt aussehen.
 
-![Screenshot](https://raw.github.com/cartz/schule/master/images/save_target_as.jpg)
+![Screenshot](https://raw.githubusercontent.com/cartz/schule/master/HTML-Tic_Tac_Toe/images/3.jpg)
 
 Als letzten Schritt fügen wir nun noch unter dem Spielfeld in unserer index.html, nach dem abschließenden div-Tag, die folgenden Zeilen ein, die uns einen Schriftzug mit dem Hinweis darauf bescheren, dass der erste Spieler anfängt und eine div, die wir im späteren Verlauf noch gebrauchen werden, wenn wir ein neues Spiel starten wollen, ohne dabei das komplette Fenster neu zu laden. Auch ist es sehr wichtig, dass eure Überschrift mit der class-Angabe "message" versehen wird, weil wir über diese später auf den Inhalt zwischen den beiden Tags nehmen werden.
 

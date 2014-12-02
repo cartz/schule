@@ -1,7 +1,7 @@
 Aufgaben: Tic Tac Toe!
 ====
 
-1. Bastel nach der folgenden Anleitung ein eigenes "Tic Tac Toe"
+1. Bastel nach der folgenden Anleitung ein eigenes "Tic Tac Toe" ![klick mich](https://github.com/cartz/schule/blob/master/HTML-Tic_Tac_Toe/how.md)
 2. Zusatzaufgaben:
 	* Gib dem Spielfeld und dem "Neues Spiel"-Button eine andere Farbe!
 	* Gib dem Spielfeld und dem "Neues Spiel"-Button abgerundete Ecken!
