@@ -88,7 +88,7 @@ Wenn ihr unter eurer Überschift die oben angezeigten Zeilen geschrieben habt, d
 	cursor: pointer;
 }
 
-.game-grid-line {
+.grid-line {
 	position: absolute;
 	background-color: #000000;
 }
