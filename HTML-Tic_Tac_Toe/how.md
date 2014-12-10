@@ -290,6 +290,20 @@ Wichtig ist dabei, dass ihr beim ersten Feld anfangt und bis zum letzten Spielfe
 Wenn ihr dies getan habt, dann speichert ihr die html-Datei erneut ab und wendet euch wieder eurer script.js zu. Dort müssen wir nun die folgenden Zeilen eintragen, damit der Computer nicht nur die Regeln für das Spiel kennt, sondern mit diesen auch praktisch etwas anzufangen weiß.
 
 ```
+// Diese Funktion benachrichtigt die Spieler, wer am Zug ist.
+var playerTurn = 1;
+
+function nextTurn(playerNo) {
+	if (playerNo === 1) {
+		playerTurn = 2;
+		$('.message').html("Spieler 2 ist am Zug!");
+	}
+	else if (playerNo === 2) {
+		playerTurn = 1;
+		$('.message').html("Spieler 1 ist am Zug!");
+	}
+}
+
 // Diese Funktion benachrichtigt die Spieler, wenn jemand gewonnen hat.
 function checkWin() {
 	linesOfThree();
