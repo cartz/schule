@@ -14,6 +14,7 @@ Eine weitere Erleichterung kann übrigens auch das CSS-Wiki sein, das ihr hier e
 * ![HTML - CSS](https://github.com/cartz/schule/tree/master/HTML-CSS)
 * ![HTML - Text](https://github.com/cartz/schule/tree/master/HTML-Text)
 * ![HTML - Tic Tac Toe](https://github.com/cartz/schule/tree/master/HTML-Tic_Tac_Toe)
+* ![HTML - Snake](https://github.com/cartz/schule/tree/master/HTML-Snake)
 
 
 
