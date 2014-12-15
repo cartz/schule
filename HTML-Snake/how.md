@@ -1,4 +1,4 @@
-![Screenshot](https://commons.wikimedia.org/wiki/Category:Snake_%28video_game%29?uselang=de#mediaviewer/File:Snake_can_be_completed.gif)
+![Screenshot](https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif)
 
 Aufgabe: Snake!
 ====
