@@ -26,7 +26,7 @@ Anschließend erstellen wir in unserer index.html Datei das Grundgerüst einer h
 </html>
 ```
 
-Nachdem wir dieses Grundgerüst erstellt haben, geben wir dem Spiel selbstverständlich einen Titel. Den Titel eines Dokuments findest du zwischen den beiden title-Tags im head-Bereich. Anschließend fügen wir zwischen den beiden head-Tags einen Link zu unserer js-Datei ein. Da die js-Datei im gleichen Ordner sein soll, reicht es aus, wenn wir als Quelle (src) lediglich "script.js" eingeben.
+Nachdem wir dieses Grundgerüst erstellt haben, geben wir dem Spiel selbstverständlich einen Titel. Den Titel eines Dokuments findest du zwischen den beiden title-Tags im head-Bereich. Anschließend fügen wir direkt in der Zeile vor dem schließenden body-Tag einen Link zu unserer js-Datei ein. Da die js-Datei im gleichen Ordner sein soll, reicht es aus, wenn wir als Quelle (src) lediglich "script.js" eingeben.
 
 ```
 <script type="text/javascript" src="script.js"></script>
@@ -39,7 +39,7 @@ Es ist sehr wichtig, dass ihr den Link zu der jquery-Datei in der Zeile über de
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 ```
 
-Typisch für das Spiel "snake" ist, dass es eine  Spielfläche hat, die an den Seiten begrenzt ist. Wir werden uns nun um genau diese Spielfläche kümmern. Damit wir später innerhalb dieser Spielfläche unsere Figuren (die Schlange und das Essen) positionieren und verändern können, benutzen wir ein canvas-Element. Wir platzieren dieses Element direkt zwischen den beiden body-Tags.
+Typisch für das Spiel "snake" ist, dass es eine  Spielfläche hat, die an den Seiten begrenzt ist. Wir werden uns nun um genau diese Spielfläche kümmern. Damit wir später innerhalb dieser Spielfläche unsere Figuren (die Schlange und das Essen) positionieren und verändern können, benutzen wir ein canvas-Element. Wir platzieren dieses Element zwischen den beiden body-Tags aber vor den Verweisen auf unsere beiden .js-Dateien.
 
 ```
 <canvas id="spielfeld"></canvas>
