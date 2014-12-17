@@ -134,7 +134,7 @@ Bezogen auf die Pfeiltasten handelt es sich dabei um die folgenden Werte:
     }        
 ```
 
-Wie du bereits erfahren hast, kann man die Zahlenwerte 37, 38, 39 und 40 den Pfeiltasten zuweisen. Deine Aufgabe ist es nun auf ![dieser Internetseite](http://www.mediaevent.de/javascript/Extras-Javascript-Keycodes.html) zu schauen, welcher Zahl die Leertaste zugewiesen ist, die wir später als Pausentaste benutzen wollen und diesen Zahlenwert an der entsprechenden Stelle in den Quellcode einzufügen.
+Wie du bereits erfahren hast, kann man die Zahlenwerte 37, 38, 39 und 40 den Pfeiltasten zuweisen. Deine Aufgabe ist es nun auf dieser Internetseite: (http://www.mediaevent.de/javascript/Extras-Javascript-Keycodes.html) zu schauen, welcher Zahl die Leertaste zugewiesen ist, die wir später als Pausentaste benutzen wollen und diesen Zahlenwert an der entsprechenden Stelle in den Quellcode einzufügen.
 Du kannst sehen, dass das script mit "case"-Angaben arbeitet. Das bedeutet, dass für den Fall, dass die Taste 38 gedrückt wird, sofern die Schlange nicht gerade auf dem Weg nach unten ist, die Richtung der Schlange in 0, was für oben steht, geändert wird.
 Insgesamt stehen der Schlange vier unterschiedliche Bewegungsrichtungen zur Verfügung:
 
