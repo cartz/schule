@@ -366,3 +366,5 @@ Mit den ersten beiden Zahlen legen wir die Größe unseres Spielfeldes in Blöck
 Durch die vierte Zahl können wir das Spieltempo variieren und damit auch die Schwierigkeit steuern.
 
 Ich wünsche euch nun viel Spaß mit eurem Spiel!
+
+P.S.: Wer das Spiel fertig programmiert hat, der kann gerne nach einem Test versuchen, das Aussehen der einzelnen Elemente zu verändern!

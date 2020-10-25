@@ -43,4 +43,4 @@ Beispiel:
 ====
 
 ### FAQ:
-* ![Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)
+* [Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)

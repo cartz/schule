@@ -3,7 +3,7 @@ Hallo!
 
 In diesem Repository sind passende Zusatzmaterialien für meinen Unterricht im WP "Medien" zu finden! Sollten während des Unterrichts Fragen oder Probleme auftauchen, die ihr nicht selber lösen könnt, dann meldet euch bitte! Ein wenig Eigeninitiative erwarte ich aber schon von euch! Die wichtigsten Fragen versuche ich immer in der FAQ-Datei zu beantworten. Ein Blick hierauf wird sich also lohnen!
 
-Solltet ihr trotzdem immer wieder ins Grübeln kommen, welche Befehle ihr zur Umsetzung einer Aufgabe benötigt, dann habe ich euch einen kleinen Spickzettel vorbereitet (ein Cheat Sheet), den ihr hier finden könnt: ![unser HTML Cheat Sheet](https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
+Solltet ihr trotzdem immer wieder ins Grübeln kommen, welche Befehle ihr zur Umsetzung einer Aufgabe benötigt, dann habe ich euch einen kleinen Spickzettel vorbereitet (ein Cheat Sheet), den ihr hier finden könnt: [unser HTML Cheat Sheet](https://github.com/cartz/schule/blob/master/HTML-Spickzettel.pdf?raw=true)
 
 ### Aufgaben:
 * [HTML - Steckbrief](https://github.com/cartz/schule/tree/master/HTML-Steckbrief)

@@ -415,4 +415,4 @@ $('.resetButton').click(function() {
 });
 ```
 
-Wenn ihr diesen Schritt fertig habt, dann speichert ihr alle Dateien ab und könnt eure erste Runde Tic Tac Toe gegen euren Sitznachbarn spielen.
+Wenn ihr diesen Schritt fertig habt, dann speichert ihr alle Dateien ab und könnt eure erste Runde Tic Tac Toe gegen euren Sitznachbarn spielen oder es per CSS an eure eigenen Wünsche anpassen!

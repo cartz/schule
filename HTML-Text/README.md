@@ -55,4 +55,4 @@ Die Eigenschaft "font-weight: bold" lässt einen Text fett werden.
 ====
 
 ### FAQ:
-* ![Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)
+* [Link zum FAQ](https://github.com/cartz/schule/blob/master/faq.md)
