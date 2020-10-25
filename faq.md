@@ -34,7 +34,7 @@ Dann schreib sie dir auf! Eine kleine Hilfe kann dir an dieser Stelle auch ein k
 
 ### Wo kann ich weitere Dinge lernen?
 
-Du kannst und solltest gerne auch einzelne Lektionen auf ![codecademy.com](http://bit.ly/1bCUWUS) bearbeiten und dir dort in deinem eigenen Tempo neue Techniken aneignen! Zum Nachschlagen empfehle ich dir das ![CSS-Wiki](https://bit.ly/IcHn6E)!
+Du kannst und solltest gerne auch einzelne Lektionen auf ![codecademy.com](http://bit.ly/1bCUWUS) bearbeiten und dir dort in deinem eigenen Tempo neue Techniken aneignen! Zum Nachschlagen empfehle ich dir das ![CSS-Wiki](https://bit.ly/IcHn6E) oder ![selfhtml](https://wiki.selfhtml.org/wiki/Startseite)!
 
 ### Wie sichere ich meine Arbeiten?
 
